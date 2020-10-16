@@ -1,0 +1,22 @@
+	  |RECEIPT|
+=============================
+   'Food Mania Restaurant'
+=============================
+ Bill Number : 9323 
+ Applied GST Rate : Custom
+-----------------------------
+Products	     Qty	      Price
+-----------------------------
+Chicken Burger	 2	       400
+Beef Burger	    2	       360
+Cheese Fries	   3	       510
+Singaporian	    3	       750
+Chicken Tikka	  4	       800
+Afghani Boti	   2	       340
+Roghni Nan	     5	       175
+Paratha	        2	       50
+Coke	        4	       260
+Sprite	        2	       130
+-----------------------------
+ Total Incl. GST: Rs. 4265.75
+-----------------------------   THANK YOU, VISIT US AGAIN!
